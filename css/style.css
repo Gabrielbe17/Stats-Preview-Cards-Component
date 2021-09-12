@@ -100,7 +100,7 @@ html{
 .card__image{
     height: 18rem;
     width: 100%;
-    background: var(--softViolet) url(/images/image-header-desktop.jpg) center;
+    background: var(--softViolet) url(../images/image-header-desktop.jpg) center;
     background-size: cover;
     border-radius: .5rem .5rem 0 0;
     background-blend-mode: multiply;

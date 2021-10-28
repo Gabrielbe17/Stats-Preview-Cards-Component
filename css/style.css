@@ -57,7 +57,7 @@ html{
     background-color: var(--darkblue);
 }
 /*container*/
-.container{
+main{
     height: 100vh; 
     width: 100%;
     display: grid;
@@ -99,7 +99,7 @@ html{
 /* Image */
 .card__image{
     height: 18rem;
-    width: 100%;
+    max-width: 100%;
     background: var(--softViolet) url(../images/image-header-desktop.jpg) center;
     background-size: cover;
     border-radius: .5rem .5rem 0 0;
